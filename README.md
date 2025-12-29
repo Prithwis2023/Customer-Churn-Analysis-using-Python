@@ -2,7 +2,7 @@
 
 ### Dataset
 
-<a href="https://www.kaggle.com/datasets/blastchar/telco-customer-churn">Telcho Churn Analysis<a>
+<a href="https://www.kaggle.com/datasets/blastchar/telco-customer-churn" target="_blank">Telcho Churn Analysis<a>
 
 
 ##### Questions -
