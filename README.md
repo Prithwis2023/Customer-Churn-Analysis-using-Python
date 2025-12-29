@@ -2,10 +2,11 @@
 
 ### Dataset
 
-<a href="https://www.kaggle.com/datasets/blastchar/telco-customer-churn" target="_blank">Telcho Churn Analysis<a>
+[Telco Churn Analysis Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
 
 ##### Questions -
+
 Load the dataset and display the first 5 rows.
 
 Show the number of rows and columns in the dataset.
